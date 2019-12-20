@@ -46,6 +46,33 @@
       ```bash
       $ bundle i
       ```
+    - Added `badges` to the `README` file.
+
+2. Adding Testing support:
+    - Added latest versions of `brakeman`, `bundler-audit`, `database_cleaner`, `simplecov`, `shoulda-matchers`, `rails-controller-testing`, `rspec-rails`, `factory_bot_rails`, `faker`. Then run:
+      ```bash
+      $ bundle i
+      ```
+    - Install Rspec:
+      ```bash
+      $ rails g rspec:install
+      ```
+    - Add `--format documentation` to `.rspec`
+    - Rails generators - Not to run helpers generators in `rails g` command. See comment `Don't run un-required generations of files` in `config/application.rb` and uncomment required stuff as required.
+    - In `spec/rails_helper.rb` - Added Simplecov, database cleaner, shoulda-matchers and FactoryBot:
+      ```rb
+      # Simple Cov
+      ...
+
+      # DB Cleaner
+      ...
+
+      # Shoulda Matchers
+      ...
+
+      # Include Factory Girl syntax to simplify calls to factories
+      ...
+      ```
 
 -----
 -----
