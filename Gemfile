@@ -48,3 +48,4 @@ group :test do
 end
 
 ## Custom Gems:
+gem 'figaro', '~> 1.1', '>= 1.1.1'

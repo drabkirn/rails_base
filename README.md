@@ -74,6 +74,14 @@
       ...
       ```
 
+3. Environment variables and Database support:
+    - Added the `figaro` gem and installed it with:
+      ```bash
+      $ bundle exec figaro install
+      ```
+    - Setting up the `config/application-sample.yml` with initial data.
+    - Rewriting `config/database.yml` file to use config variables from figaro env variables.
+
 -----
 -----
 
