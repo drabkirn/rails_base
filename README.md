@@ -15,6 +15,7 @@
 [![Pulls](https://img.shields.io/github/issues-pr/drabkirn/rails_base.svg)](https://github.com/drabkirn/rails_base/pulls)
 [![Pulls](https://img.shields.io/github/issues-pr-closed/drabkirn/rails_base.svg)](https://github.com/drabkirn/rails_base/pulls)
 [![License](https://img.shields.io/github/license/drabkirn/rails_base.svg)](https://choosealicense.com/licenses/agpl-3.0/)
+[![CLA assistant](https://cla-assistant.io/readme/badge/drabkirn/rails_base)](https://cla-assistant.io/drabkirn/rails_base)
 
 <!-- TODO: Full Description of Project goes here -->
 
