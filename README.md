@@ -7,8 +7,8 @@
 > This repository serves as a base repository for new projects in rails that we build at Drabkirn
 
 <!-- Add languages, CI/CD, main frameworks used from shields.io. Example -->
-[![Ruby 2.6.5](https://img.shields.io/badge/Ruby-v2.6.5-green.svg)](https://www.ruby-lang.org/en/)
-[![Rails 6.0.2](https://img.shields.io/badge/Rails-v6.0.0-brightgreen.svg)](https://rubyonrails.org/)
+[![Ruby 2.7.1](https://img.shields.io/badge/Ruby-v2.7.1-green.svg)](https://www.ruby-lang.org/en/)
+[![Rails 6.0.2.2](https://img.shields.io/badge/Rails-v6.0.2.2-brightgreen.svg)](https://rubyonrails.org/)
 [![Rspec 3.9](https://img.shields.io/badge/RSpec-v3.9-red.svg)](http://rspec.info/)
 [![Issues](https://img.shields.io/github/issues/drabkirn/rails_base.svg)](https://github.com/drabkirn/rails_base/issues)
 [![Issues closed](https://img.shields.io/github/issues-closed/drabkirn/rails_base.svg)](https://github.com/drabkirn/rails_base/issues)
@@ -18,9 +18,8 @@
 [![CLA assistant](https://cla-assistant.io/readme/badge/drabkirn/rails_base)](https://cla-assistant.io/drabkirn/rails_base)
 
 <!-- TODO: Full Description of Project goes here -->
+We don't like building up the same rails project that we spin up for each new project that we build. So we made this template, where the defaults are set so we can prototype our ideas as fast as we can, then build the big picture of the project.
 
-<!-- TODO: Demo or website here -->
-<!-- **[Visit Website here](https://go.brinkirn.xyz/go)** -->
 
 -----
 -----
@@ -195,8 +194,9 @@ Please check [this Code of Conduct guide](https://github.com/drabkirn/rails_base
 
 ## Connect:
 Need any help? Have any Questions? Or just say us hi!
-<!-- TODO: Add Social Links, Blogs, Websites and Support -->
+
 1. [Drabkirn Website](https://go.cdadityang.xyz/drab)
 2. [Our Blog](https://go.cdadityang.xyz/blog)
-3. [Twitter](https://go.cdadityang.xyz/DtwtK)
-4. [Instagram](https://go.cdadityang.xyz/DinsK)
+3. [Discord Server](https://go.cdadityang.xyz/discord)
+4. [Twitter](https://go.cdadityang.xyz/DtwtK)
+5. [Instagram](https://go.cdadityang.xyz/DinsK)
