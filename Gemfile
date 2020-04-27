@@ -9,7 +9,7 @@ gem 'puma', '~> 4.3'
 gem 'webpacker', '~> 4.2', '>= 4.2.2'
 gem 'jbuilder', '~> 2.9', '>= 2.9.1'
 gem 'bootsnap', '~> 1.4', '>= 1.4.5', require: false
-gem 'tzinfo-data', '~> 1.2019', '>= 1.2019.3'
+gem 'tzinfo-data', '~> 1.2020'
 
 # Delete these if using React/other for FE - START
 gem 'sass-rails', '>= 6'
