@@ -17,7 +17,7 @@ gem 'turbolinks', '~> 5.2', '>= 5.2.1'
 # Delete these if using React/other for FE - END
 
 group :development, :test do
-  gem 'byebug', '~> 11.0', '>= 11.0.1', platforms: [:mri, :mingw, :x64_mingw]
+  gem 'byebug', '~> 11.1', platforms: [:mri, :mingw, :x64_mingw]
 
   # Custom gems:
   gem 'database_cleaner', '~> 1.7'
