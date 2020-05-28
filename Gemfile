@@ -24,7 +24,7 @@ group :development, :test do
   gem 'simplecov', '~> 0.18.5'
   gem 'shoulda-matchers', '~> 4.1', '>= 4.1.2'
   gem 'rails-controller-testing', '~> 1.0', '>= 1.0.4'
-  gem 'rspec-rails', '~> 3.9'
+  gem 'rspec-rails', '~> 4.0'
   gem 'factory_bot_rails', '~> 5.2'
   gem 'faker', '~> 2.9'
 end
