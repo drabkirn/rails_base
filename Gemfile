@@ -3,10 +3,10 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.7.1'
 
-gem 'rails', '~> 6.0.2.2'
+gem 'rails', '~> 6.0.3.1'
 gem 'mysql2', '~> 0.5.3'
 gem 'puma', '~> 4.3'
-gem 'webpacker', '~> 4.2', '>= 4.2.2'
+gem 'webpacker', '~> 5.1', '>= 5.1.1'
 gem 'jbuilder', '~> 2.9', '>= 2.9.1'
 gem 'bootsnap', '~> 1.4', '>= 1.4.5', require: false
 gem 'tzinfo-data', '~> 1.2020'
@@ -20,7 +20,7 @@ group :development, :test do
   gem 'byebug', '~> 11.1', platforms: [:mri, :mingw, :x64_mingw]
 
   # Custom gems:
-  gem 'database_cleaner', '~> 1.7'
+  gem 'database_cleaner', '~> 1.8', '>= 1.8.5'
   gem 'simplecov', '~> 0.18.5'
   gem 'shoulda-matchers', '~> 4.1', '>= 4.1.2'
   gem 'rails-controller-testing', '~> 1.0', '>= 1.0.4'
@@ -42,7 +42,7 @@ group :development do
 end
 
 group :test do
-  gem 'capybara', '~> 3.29'
+  gem 'capybara', '~> 3.32', '>= 3.32.2'
   gem 'selenium-webdriver', '~> 3.142', '>= 3.142.6'
   gem 'webdrivers', '~> 4.3'
 end

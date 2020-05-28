@@ -8,8 +8,8 @@
 
 <!-- Add languages, CI/CD, main frameworks used from shields.io. Example -->
 [![Ruby 2.7.1](https://img.shields.io/badge/Ruby-v2.7.1-green.svg)](https://www.ruby-lang.org/en/)
-[![Rails 6.0.2.2](https://img.shields.io/badge/Rails-v6.0.2.2-brightgreen.svg)](https://rubyonrails.org/)
-[![Rspec 3.9](https://img.shields.io/badge/RSpec-v3.9-red.svg)](http://rspec.info/)
+[![Rails 6.0.3.1](https://img.shields.io/badge/Rails-v6.0.3.1-brightgreen.svg)](https://rubyonrails.org/)
+[![Rspec 4.0](https://img.shields.io/badge/RSpec-v4.0-red.svg)](http://rspec.info/)
 [![Issues](https://img.shields.io/github/issues/drabkirn/rails_base.svg)](https://github.com/drabkirn/rails_base/issues)
 [![Issues closed](https://img.shields.io/github/issues-closed/drabkirn/rails_base.svg)](https://github.com/drabkirn/rails_base/issues)
 [![Pulls](https://img.shields.io/github/issues-pr/drabkirn/rails_base.svg)](https://github.com/drabkirn/rails_base/pulls)
