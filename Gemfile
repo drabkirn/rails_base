@@ -20,7 +20,7 @@ group :development, :test do
   gem 'byebug', '~> 11.1', platforms: [:mri, :mingw, :x64_mingw]
 
   # Custom gems:
-  gem 'database_cleaner', '~> 1.7'
+  gem 'database_cleaner', '~> 1.8'
   gem 'simplecov', '~> 0.18.5'
   gem 'shoulda-matchers', '~> 4.1', '>= 4.1.2'
   gem 'rails-controller-testing', '~> 1.0', '>= 1.0.4'
