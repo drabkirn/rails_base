@@ -38,7 +38,7 @@ group :development do
 
   # Custom gems:
   gem 'brakeman', '~> 4.8'
-  gem 'bundler-audit', '~> 0.6.1'
+  gem 'bundler-audit', '~> 0.7.0'
 end
 
 group :test do
