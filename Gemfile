@@ -23,7 +23,7 @@ group :development, :test do
   gem 'database_cleaner', '~> 1.8', '>= 1.8.5'
   gem 'simplecov', '~> 0.18.5'
   gem 'shoulda-matchers', '~> 4.1', '>= 4.1.2'
-  gem 'rails-controller-testing', '~> 1.0', '>= 1.0.4'
+  gem 'rails-controller-testing', '~> 1.0'
   gem 'rspec-rails', '~> 4.0'
   gem 'factory_bot_rails', '~> 6.1'
   gem 'faker', '~> 2.12'
