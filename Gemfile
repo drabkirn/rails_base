@@ -42,7 +42,7 @@ group :development do
 end
 
 group :test do
-  gem 'capybara', '~> 3.32', '>= 3.32.2'
+  gem 'capybara', '~> 3.33'
   gem 'selenium-webdriver', '~> 3.142', '>= 3.142.6'
   gem 'webdrivers', '~> 4.4'
 end
