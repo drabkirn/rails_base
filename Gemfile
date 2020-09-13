@@ -21,7 +21,7 @@ group :development, :test do
 
   # Custom gems:
   gem 'database_cleaner', '~> 1.8', '>= 1.8.5'
-  gem 'simplecov', '~> 0.18.5'
+  gem 'simplecov', '~> 0.19.0'
   gem 'shoulda-matchers', '~> 4.4'
   gem 'rails-controller-testing', '~> 1.0'
   gem 'rspec-rails', '~> 4.0'
