@@ -8,7 +8,7 @@ gem 'mysql2', '~> 0.5.3'
 gem 'puma', '~> 4.3'
 gem 'webpacker', '~> 5.1', '>= 5.1.1'
 gem 'jbuilder', '~> 2.9', '>= 2.9.1'
-gem 'bootsnap', '~> 1.4', '>= 1.4.5', require: false
+gem 'bootsnap', '~> 1.4', require: false
 gem 'tzinfo-data', '~> 1.2020'
 
 # Delete these if using React/other for FE - START
