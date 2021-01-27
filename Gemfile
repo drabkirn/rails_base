@@ -7,7 +7,7 @@ gem 'rails', '~> 6.0.3.3'
 gem 'mysql2', '~> 0.5.3'
 gem 'puma', '~> 4.3'
 gem 'webpacker', '~> 5.2'
-gem 'jbuilder', '~> 2.9', '>= 2.9.1'
+gem 'jbuilder', '~> 2.11'
 gem 'bootsnap', '~> 1.4', require: false
 gem 'tzinfo-data', '~> 1.2020'
 
