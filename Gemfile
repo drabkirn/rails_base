@@ -37,7 +37,7 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0', '>= 2.0.1'
 
   # Custom gems:
-  gem 'brakeman', '~> 4.9'
+  gem 'brakeman', '~> 5.1'
   gem 'bundler-audit', '~> 0.7.0'
 end
 
